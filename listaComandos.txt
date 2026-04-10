@@ -1,3 +1,7 @@
 git clone: sirve para copiar o clonar un repositorio remoto a la computadora local.
 
 git commit: sirve para guardar de forma local los cambios preparados en el historial del repositorio.
+
+git push: sirve para enviar los commits locales al repositorio remoto.
+git status: sirve para mostrar el estado actual de los archivos y cambios del repositorio.
+git add: sirve para agregar archivos o cambios al área de preparación antes de hacer un commit.
